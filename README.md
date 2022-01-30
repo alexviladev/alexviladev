@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AVex3nder
-- 👀 I’m interested in Front End Dev.
-- 🌱 I’m currently learning React.js .
-- 💞️ I’m looking to collaborate on any JS or HTML based projects accepting a noob.
+- 👀 I’m interested in FullStack Dev.
+- 🌱 I’m currently learning NextJs .
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me: alex.vila.dev@gmail.com
 
 <!---
