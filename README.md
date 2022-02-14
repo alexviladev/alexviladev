@@ -33,6 +33,7 @@
   <a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; 
     background: white; 
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://graphql.org/graphql-js/running-an-express-graphql-server/"><img style="width:60px; height:60px;" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></a></code>
+    <br>
   <code style="display:flex" ><a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; 
     background: white; 
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/"><img style="width:60px; height:60px;" alt="MySQL" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fmysql-5-logo-png-transparent.png&f=1&nofb=1"></a>
