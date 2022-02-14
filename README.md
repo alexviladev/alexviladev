@@ -2,7 +2,7 @@
 <section style="font-family: 'Montserrat'"><h1>👋 I am <span style="color:#FF6B35; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">ALEX</span>, a FullStack developer.</h1>
 <h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UI</span> that help provide an improved <span style="color:#449DD1; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UX</span> !</h2>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexviladev&theme=andromeda)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexviladev&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <h3 dir="auto">My preferred 
 <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
