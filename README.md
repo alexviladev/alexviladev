@@ -47,10 +47,10 @@
 <a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white;
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px; background: white;" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
 
-<span style="font-size: 1.5rem">🎲</span><h3> Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
+<h3>🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
-
-<span style="font-size: 1.5rem">🥋</span><h3> Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
+<br>
+<h3>🥋 Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
 If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700"><span style="color:#449DD1;">Linkedin!</span></a></h3>
 </section>
