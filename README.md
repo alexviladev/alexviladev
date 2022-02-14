@@ -49,5 +49,5 @@
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
 <h3>🥋 Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
-If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">Linkedin!</span></a></h3>
+If you'd like to work with me find me in <a href="https://www.linkedin.com/in/alexviladev/"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">Linkedin!</span></a></h3>
 </section>
