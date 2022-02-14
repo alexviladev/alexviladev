@@ -12,14 +12,14 @@
 
 <code style="display:flex"><a style="margin-right:17px; margin-bottom: 17px; 
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/docs/"><img style="width:60px; height:60px;" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; height: 60px; background: white; 
-  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://reactjs.org/docs/hooks-reference.html"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a style="display:flex; margin-right:17px; height:60px;
+<a style="display:flex; margin-right:17px; margin-bottom: 17px; background: white; 
+  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://reactjs.org/docs/hooks-reference.html"><img style="width:60px; height:60px;" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
+<a style="display:flex; margin-right:17px;
     background: transparent; 
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://redux.js.org/usage/index"><img alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></a>
-<a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; height:60px;
+    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://redux.js.org/usage/index"><img style="width:60px; height:60px;" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></a>
+<a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px;
     background: white; 
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs/api-reference/create-next-app"><img alt="NextJS" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnext-js-logo-7929BCD36F-seeklogo.com.png&f=1&nofb=1"></a></code>
+    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs/api-reference/create-next-app"><img style="width:60px; height:60px;" alt="NextJS" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnext-js-logo-7929BCD36F-seeklogo.com.png&f=1&nofb=1"></a></code>
     <br>
  <code style="display:flex" ><a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; height:60px;
     background: white; 
