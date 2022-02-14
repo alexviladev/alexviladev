@@ -1,13 +1,4 @@
-<style>
-  @font-face {
-      font-family: 'Kongtext';
-      src: url('./fonts/kongtext.regular.ttf');
-  }
-  @font-face {
-      font-family: 'Montserrat';
-      src: url('./fonts/Montserrat-Regular.ttf');
-  }
-</style>
+
 <section style="font-family: 'Montserrat'"><h1>👋 I am <span style="color:#FF6B35; font:1.8rem 'Kongtext'">ALEX</span>, a FullStack developer.</h1>
 <div style="display:flex"><h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font:1.5rem 'Kongtext'">UI</span> that help provide an improved <span style="color:#449DD1; font:1.5rem 'Kongtext'">UX</span> !</h2>
 <br>
