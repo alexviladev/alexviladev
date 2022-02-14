@@ -46,7 +46,7 @@ Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weigh
 
 <code><a style="margin-right:17px; margin-bottom: 17px; width:60px;
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img style="width:60px; height:60px;" alt="Remix" src="./img/800x800 - Glowing.png"></a>
-<a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white; 
+<a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white; color:white;
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px;" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
 
 <span style="font-size: 1.5rem">🎲</span> Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
