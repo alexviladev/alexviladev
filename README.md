@@ -1,10 +1,10 @@
 
-<section style="font-family: 'Montserrat'"><h1>👋 I am <span style="color:#FF6B35; font:1.8rem 'Kongtext'">ALEX</span>, a FullStack developer.</h1>
-<div style="display:flex"><h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font:1.5rem 'Kongtext'">UI</span> that help provide an improved <span style="color:#449DD1; font:1.5rem 'Kongtext'">UX</span> !</h2>
+<section style="font-family: 'Montserrat'"><h1>👋 I am <span style="color:#FF6B35; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">ALEX</span>, a FullStack developer.</h1>
+<div style="display:flex"><h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UI</span> that help provide an improved <span style="color:#449DD1; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UX</span> !</h2>
 <br>
 </div>
 <h3 dir="auto">My preferred 
-<span style="font:1rem 'Kongtext'">
+<span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#66DDAA;">P</span><span style="color:#449DD1;">l</span><span style="color:#FF6B35;">a</span><span style="color:#F2C14E;">y</span> <span style="color:#B4436C;">T</span><span style="color:#66DDAA;">o</span><span style="color:#449DD1;">o</span><span style="color:#FF6B35;">l</span><span style="color:#F2C14E;">s</span></span> (aka. Tech Stack) so far include:</h3>
 <br>
 
@@ -39,9 +39,9 @@
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/"><img style="width:60px; height:60px;" alt="MySQL" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fmysql-5-logo-png-transparent.png&f=1&nofb=1"></a>
   <a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; 
   background: white; 
-  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/api/"><img style="width:60px; height:60px;" alt="Node.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-png--400.png&f=1&nofb=1"></a></div></code>
+  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/api/"><img style="width:60px; height:60px;" alt="Node.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-png--400.png&f=1&nofb=1"></a></code>
 
-Here are some <span style="font:1rem 'Kongtext'">
+Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#449DD1;">T</span><span style="color:#F2C14E;">o</span><span style="color:#FF6B35;">y</span><span style="color:#66DDAA;">s</span></span> that I am curious about now:
 
 <div style="display: grid; grid-template-columns: repeat(4, 77px)" >
@@ -51,10 +51,10 @@ Here are some <span style="font:1rem 'Kongtext'">
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img alt="Three.js" src="./sources/threejs.png"></a>
 </div>
 
-🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font:1rem 'Kongtext'">
+🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.
 
 🥋 Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
-If you'd like to work with me find me in <a><span style="font:1rem 'Kongtext'"><span style="color:#449DD1;">Linkedin!</span></a>
+If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700"><span style="color:#449DD1;">Linkedin!</span></a>
 </section>
