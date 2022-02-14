@@ -1,8 +1,6 @@
 
 <section style="font-family: 'Montserrat'"><h1>👋 I am <span style="color:#FF6B35; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">ALEX</span>, a FullStack developer.</h1>
-<div style="display:flex"><h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UI</span> that help provide an improved <span style="color:#449DD1; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UX</span> !</h2>
-<br>
-</div>
+<h2>I <img style="position: relative; top: 5px; width: 25px" alt="pixel heart" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2Fa%2Fa7%2FHeart.svg%2Frevision%2F20111112135832%2Fscale-to-width-down%2F120&f=1&nofb=1"/> to build interesting apps with gamified <span style="color:#66DDAA; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UI</span> that help provide an improved <span style="color:#449DD1; font-size:1.5rem; font-family: 'Kongtext'; font-weight: 700">UX</span> !</h2>
 <h3 dir="auto">My preferred 
 <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#66DDAA;">P</span><span style="color:#449DD1;">l</span><span style="color:#FF6B35;">a</span><span style="color:#F2C14E;">y</span> <span style="color:#B4436C;">T</span><span style="color:#66DDAA;">o</span><span style="color:#449DD1;">o</span><span style="color:#FF6B35;">l</span><span style="color:#F2C14E;">s</span></span> (aka. Tech Stack) so far include:</h3>
@@ -49,7 +47,6 @@
 
 <h3>🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
-<br>
 <h3>🥋 Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
 If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700"><span style="color:#449DD1;">Linkedin!</span></a></h3>
