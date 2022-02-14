@@ -17,9 +17,8 @@
 <a style="display:flex; margin-right:17px;
     background: transparent; 
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://redux.js.org/usage/index"><img style="width:60px; height:60px;" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></a>
-<a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px;
-    background: white; 
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs/api-reference/create-next-app"><img style="width:60px; height:60px; filter:invert(100%)" alt="NextJS" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnext-js-logo-7929BCD36F-seeklogo.com.png&f=1&nofb=1"></a></code>
+<a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; 
+    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs/api-reference/create-next-app"><img style="width:60px; height:60px; background: white;" alt="NextJS" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnext-js-logo-7929BCD36F-seeklogo.com.png&f=1&nofb=1"></a></code>
     <br>
  <code style="display:flex"><a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; 
     background: white; 
@@ -47,7 +46,7 @@ Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weigh
 <code><a style="margin-right:17px; margin-bottom: 17px; width:60px;
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img style="width:60px; height:60px;" alt="Remix" src="./img/800x800 - Glowing.png"></a>
 <a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white;
-  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px; filter:invert(100%)" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
+  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px; background: white;" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
 
 <span style="font-size: 1.5rem">🎲</span> Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.
