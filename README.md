@@ -9,7 +9,6 @@
 <br>
 
 
-
 <code style="display:flex"><a style="margin-right:17px; margin-bottom: 17px; 
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/docs/"><img style="width:60px; height:60px;" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
 <a style="display:flex; margin-right:17px; margin-bottom: 17px; background: white; 
@@ -40,18 +39,18 @@
   background: white; 
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/api/"><img style="width:60px; height:60px;" alt="Node.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-png--400.png&f=1&nofb=1"></a></code>
 
-Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
-  <span style="color:#449DD1;">T</span><span style="color:#F2C14E;">o</span><span style="color:#FF6B35;">y</span><span style="color:#66DDAA;">s</span></span> that I am curious about now:
+<h3>Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
+  <span style="color:#449DD1;">T</span><span style="color:#F2C14E;">o</span><span style="color:#FF6B35;">y</span><span style="color:#66DDAA;">s</span></span> that I am curious about now:</h3>
 
 <code><a style="margin-right:17px; margin-bottom: 17px; width:60px;
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img style="width:60px; height:60px;" alt="Remix" src="./img/800x800 - Glowing.png"></a>
 <a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white;
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px; background: white;" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
 
-<span style="font-size: 1.5rem">🎲</span> Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
-  <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.
+<span style="font-size: 1.5rem">🎲</span><h3> Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
+  <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
 
-<span style="font-size: 1.5rem">🥋</span> Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
+<span style="font-size: 1.5rem">🥋</span><h3> Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
-If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700"><span style="color:#449DD1;">Linkedin!</span></a>
+If you'd like to work with me find me in <a><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700"><span style="color:#449DD1;">Linkedin!</span></a></h3>
 </section>
