@@ -17,6 +17,7 @@
   <span style="color:#66DDAA;">P</span><span style="color:#449DD1;">l</span><span style="color:#FF6B35;">a</span><span style="color:#F2C14E;">y</span> <span style="color:#B4436C;">T</span><span style="color:#66DDAA;">o</span><span style="color:#449DD1;">o</span><span style="color:#FF6B35;">l</span><span style="color:#F2C14E;">s</span></span> (aka. Tech Stack) so far include:
 <br>
 
+<code>
 <div style="display: grid; grid-template-columns: repeat(4, 77px)" >
 <a style="margin-right:17px; margin-bottom: 17px; width:60px; height:60px;
     box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/docs/"><img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
@@ -46,16 +47,16 @@
   <a style="display:flex; align-items:center; padding-left:5px; padding-right: 5px; margin-bottom: 17px; margin-right:17px; height:60px;
   background: white; 
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/api/"><img alt="Node.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-png--400.png&f=1&nofb=1"></a>
-</div>
+</div></code>
 
 Here are some <span style="font:1rem 'Kongtext'">
   <span style="color:#449DD1;">T</span><span style="color:#F2C14E;">o</span><span style="color:#FF6B35;">y</span><span style="color:#66DDAA;">s</span></span> that I am curious about now:
 
 <div style="display: grid; grid-template-columns: repeat(4, 77px)" >
 <a style="margin-right:17px; margin-bottom: 17px; width:60px; height:60px;
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img alt="Remix" src="./800x800 - Glowing.png"></a>
+    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img alt="Remix" src="./sources/800x800 - Glowing.png"></a>
 <a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; height: 60px; background: white; 
-  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img alt="Three.js" src="./threejs.png"></a>
+  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img alt="Three.js" src="./sources/threejs.png"></a>
 </div>
 
 🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font:1rem 'Kongtext'">
