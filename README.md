@@ -19,8 +19,8 @@
 
 <code>
 <div style="display: grid; grid-template-columns: repeat(4, 77px)" >
-<a style="margin-right:17px; margin-bottom: 17px; width:60px; height:60px;
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/docs/"><img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
+<code><a style="margin-right:17px; margin-bottom: 17px; width:60px; height:60px;
+    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/docs/"><img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
 <a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; height: 60px; background: white; 
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://reactjs.org/docs/hooks-reference.html"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
 <a style="display:flex; margin-right:17px; height:60px;
