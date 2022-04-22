@@ -5,7 +5,7 @@
   
 <h3 dir="auto">My preferred 
 <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
-  <span style="color:#66DDAA;">P</span><span style="color:#449DD1;">l</span><span style="color:#FF6B35;">a</span><span style="color:#F2C14E;">y</span> <span style="color:#B4436C;">T</span><span style="color:#66DDAA;">o</span><span style="color:#449DD1;">o</span><span style="color:#FF6B35;">l</span><span style="color:#F2C14E;">s</span></span> (aka. Tech Stack) so far include:</h3>
+  <span style="color:#66DDAA;">P</span><span style="color:#449DD1;">l</span><span style="color:#FF6B35;">a</span><span style="color:#F2C14E;">y</span> <span style="color:#B4436C;">T</span><span style="color:#66DDAA;">o</span><span style="color:#449DD1;">o</span><span style="color:#FF6B35;">l</span><span style="color:#F2C14E;">s</span></span> so far include:</h3>
 <br>
 
 
@@ -41,11 +41,6 @@
 
 <h3>Here are some <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#449DD1;">T</span><span style="color:#F2C14E;">o</span><span style="color:#FF6B35;">y</span><span style="color:#66DDAA;">s</span></span> that I am curious about now:</h3>
-
-<code><a style="margin-right:17px; margin-bottom: 17px; width:60px;
-    box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://remix.run/"><img style="width:60px; height:60px;" alt="Remix" src="./img/800x800 - Glowing.png"></a>
-<a style="display:flex; width:60px; margin-right:17px; margin-bottom: 17px; background: white;
-  box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img style="width:60px; height:60px; background: white;" alt="Three.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fstatic%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1"></a></code>
 
 <h3>🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
   <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
