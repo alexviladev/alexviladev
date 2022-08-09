@@ -39,8 +39,8 @@
   background: white; 
   box-shadow: -7px 7px 0 black;" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/api/"><img style="width:60px; height:60px;" alt="Node.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-png--400.png&f=1&nofb=1"></a></code>
 
-<h3>🎲 Currently working on <a href="https://github.com/alexviladev/TAMAGOCHI-CREATOR"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
-  <span style="color:#FF6B35;">TAMAGOCHI CREATOR</span></a> : a personal project using React Native driven by my interest in learning and improving my gamification skills, in order to be able to implement better gamified functionalities throughout my professional projects.</h3>
+<h3>🎲 Currently working on <span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">
+  <span style="color:#FF6B35;">A SECRET PROJECT</span></a> : I'm creating a mobile App that uses IA movement recognition to help you practice Wing Chun</h3>
 <h3>🥋 Besides coding, my other passion is martial arts. I am a 10 year practicioner of Wing Chun, to which I owe much of my personal growth.
 
 If you'd like to work with me find me in <a href="https://www.linkedin.com/in/alexviladev/"><span style="font-size:1.1rem; font-family: 'Kongtext'; font-weight: 700">Linkedin!</span></a></h3>
